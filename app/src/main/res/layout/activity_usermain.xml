@@ -32,6 +32,7 @@
             android:paddingLeft="10dp"
             android:paddingTop="10dp"
             android:paddingBottom="10dp"
+            android:fontFamily="@font/mExtraBold"
             android:text="Mobile Tani "
             android:textColor="@color/White"
             android:textSize="30sp" />
@@ -60,6 +61,7 @@
         android:layout_width="match_parent"
         android:layout_height="wrap_content"
         android:text="Search"
+        android:fontFamily="@font/mMedium"
         android:textColor="@color/White"
         />
     <EditText
@@ -71,6 +73,7 @@
         android:layout_marginBottom="20dp"
         android:gravity="center_horizontal"
         android:text="User"
+        android:fontFamily="@font/mExtraBold"
         android:textColor="#000000"
         android:textSize="24sp" />
 </LinearLayout>
@@ -136,6 +139,7 @@
             android:background="@color/red"
             android:textColor="@color/white"
             android:text="Logout"
+            android:fontFamily="@font/mExtraBold"
             app:layout_constraintBottom_toBottomOf="parent"
             app:layout_constraintEnd_toEndOf="parent"
             app:layout_constraintStart_toStartOf="parent" />
