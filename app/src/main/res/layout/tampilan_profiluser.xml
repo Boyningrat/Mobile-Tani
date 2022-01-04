@@ -34,7 +34,7 @@
             android:background="@color/green"
             android:paddingTop="10dp"
             android:paddingBottom="10dp"
-            android:fontFamily="@font/mExtraBold"
+            android:fontFamily="@font/mxbold"
             android:text="Profile"
             android:textAlignment="center"
             android:textColor="@color/colorBlack"
@@ -69,7 +69,7 @@
                 android:layout_marginTop="10dp"
                 android:layout_marginBottom="20dp"
                 android:gravity="center_horizontal"
-                android:fontFamily="@font/mMedium"
+                android:fontFamily="@font/mmedium"
                 android:text="User"
                 android:textColor="#000000"
                 android:textSize="24sp" />
@@ -82,7 +82,7 @@
                 android:background="@android:color/transparent"
                 android:labelFor="@id/name"
                 android:text="About User"
-                android:fontFamily="@font/mExtraBold"
+                android:fontFamily="@font/mxbold"
                 android:textColor="@color/green"
                 android:textSize="24sp" />
 
@@ -107,7 +107,7 @@
                 android:background="@android:color/transparent"
                 android:labelFor="@id/Phone_Number"
                 android:text="Phone"
-                android:fontFamily="@font/mMedium"
+                android:fontFamily="@font/mmedium"
                 android:textColor="#717171"
                 android:textSize="18sp" />
 
@@ -131,7 +131,7 @@
                 android:background="@android:color/transparent"
                 android:labelFor="@id/university_ID"
                 android:text="Email"
-                android:fontFamily="@font/mMedium"
+                android:fontFamily="@font/mmedium"
                 android:textColor="#717171"
                 android:textSize="18sp" />
 
@@ -165,7 +165,7 @@
                 android:background="@android:color/transparent"
                 android:labelFor="@id/Phone_Number"
                 android:text="Address"
-                android:fontFamily="@font/mMedium"
+                android:fontFamily="@font/mmedium"
                 android:textColor="#717171"
                 android:textSize="18sp" />
 
@@ -188,7 +188,7 @@
                 android:background="@android:color/transparent"
                 android:labelFor="@id/Phone_Number"
                 android:text="More Information"
-                android:fontFamily="@font/mMedium"
+                android:fontFamily="@font/mmedium"
                 android:textColor="#717171"
                 android:textSize="18sp" />
 
@@ -226,7 +226,7 @@
                 android:layout_marginBottom="40dp"
                 android:background="@drawable/ripple"
                 android:onClick="save"
-                android:fontFamily="@font/mExtraBold"
+                android:fontFamily="@font/mxbold"
                 android:text="Save"
                 android:textColor="@color/white" />
         </LinearLayout>
